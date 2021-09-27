@@ -1,6 +1,7 @@
 # lernaTest
 
-基本命令
+##基本命令
+
 * **初始化目录结构** lerna init
 
 * **创建package** lerna create new-package
