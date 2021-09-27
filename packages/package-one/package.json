@@ -1,6 +1,6 @@
 {
   "name": "@zhishaofei3/package-one",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "module": "build.js",
