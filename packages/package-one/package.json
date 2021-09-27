@@ -1,0 +1,26 @@
+{
+  "name": "@zhishaofei3/package-one",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "module": "build.js",
+  "scripts": {
+    "build": "npx babel index.js --out-file build.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhishaofei3",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhishaofei3/lernaTest.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "gitHead": "23bb0d7768e5cae039b44729454ee6794981d040"
+}
